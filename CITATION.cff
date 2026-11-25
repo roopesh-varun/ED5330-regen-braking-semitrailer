@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Jackknife-Safe Regenerative Braking for a Battery-Electric Tractor-Semitrailer: Gain-Scheduled LQR Yaw Control with Friction-Circle-Constrained Brake Allocation"
+type: software
+authors:
+  - given-names: Roopesh
+    family-names: Varun
+    affiliation: "Indian Institute of Technology Madras"
+  - name: Geoffrey
+  - name: Sivaranjani
+date-released: 2026-11-25
+license: MIT
+keywords:
+  - regenerative braking
+  - tractor-semitrailer
+  - jackknife
+  - yaw stability
+  - LQR
+  - Kalman filter
+  - control allocation
+  - MATLAB

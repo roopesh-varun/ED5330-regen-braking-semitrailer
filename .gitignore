@@ -1,0 +1,28 @@
+# MATLAB / Simulink temporary and generated files
+*.asv
+*.m~
+*.autosave
+*.slxc
+*.mex*
+slprj/
+codegen/
+*.slx.r20*
+P1_tractor_etrailer.slx
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+paper/paper.pdf
